@@ -37,7 +37,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/thadigus).
 - ![Pentest+](https://img.shields.io/badge/CompTIA-Pentest%2B-orange?style=flat-square&logo=compTIA)
 - ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-lightgrey?style=flat-square&logo=compTIA)
 - ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=compTIA)
-- ![Linux+]([https://img.shields.io/badge/CompTIA-Linux%2B-blue?style=flat-square&logo=compTIA)
+- ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-blue?style=flat-square&logo=compTIA)
 
 ---
 
